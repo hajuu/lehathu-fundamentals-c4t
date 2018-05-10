@@ -1,9 +1,10 @@
-print("yo wassup") #comment la cong cu quan li codeee
+# print("yo wassup") #comment la cong cu quan li codeee
 # yob=input("years of birth")
 # age=2018-yob
 # print("age:",age)
 
 from turtle import * #import tất cả các hàm
+
 
 shape ("turtle")
 
